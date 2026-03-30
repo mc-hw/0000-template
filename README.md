@@ -26,6 +26,6 @@ External sources used for the project
 
 - []()
 
-## Implementations
+## Implementation
 
 Any important facts learned from working on this project, which can be used in future projects.
