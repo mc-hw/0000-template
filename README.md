@@ -1,4 +1,4 @@
-# template (0000)
+# {{Project name}} (0000)
 
 ## Description
 
