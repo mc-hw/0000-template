@@ -10,7 +10,7 @@ Few sentences describing how this project works.
 
 ## Assembly
 
-Few sentences describing how sould this project be assembled.
+Few sentences describing how should this project be assembled.
 
 <img src="images/pcb_front.png" alt="PCB front layout" style="width:600px;"/>
 
